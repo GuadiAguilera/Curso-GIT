@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-MAIN
-=======
+PRINCIPAL
+
+VERDE 
+
 VIOLETA
->>>>>>> violeta
-=======
-VERDE
->>>>>>> verde
