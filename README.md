@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MAIN
+=======
+VIOLETA
+>>>>>>> violeta
